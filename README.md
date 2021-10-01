@@ -33,6 +33,6 @@ Joke teller web app which makes use of REST APIs for requesting programming Joke
 - The first **REST API** is used to request for *programming jokes* and receive the data in **JSON format**.
 - And the other **REST API** is used to convert the joke text to speech.
 - The **Tell Me A Joke** button triggers the **REST APIs** to play the joke audio dynamically based on click events.
-- The **Tell Me A Joke** also doesn't allow for another request for joke untill the first joke is played completely.
+- The **Tell Me A Joke** button also doesn't allow for another request for joke untill the first joke is played completely.
 
 ---
